@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 <h2 align="center">Hi there, I'm <a href="https://github.comd/dsabhrawal">DEEPAK</a> 👋!<br/>
   <sup>
     <br/>
-     <a href="https://www.linkedin.com/in/rawsanj" target="_blank">
+     <a href="https://www.linkedin.com/in/deepak-sabhrawal-52479257" target="_blank">
       <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-/in/dsabhrawal-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepak-sabhrawal-52479257/" />
      </a>
-    <a href="https://github.com/RawSanj" target="_blank">
+    <a href="https://github.com/dsabhrawal" target="_blank">
       <img alt="Github Badge" src="https://img.shields.io/badge/-/dsabhrawal-181717?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/dsabhrawal" />
      </a>
-         <a href="https://stackoverflow.com/users/5702727/sanjay-rawat?tab=profile" target="_blank">
+         <a href="https://stackoverflow.com/users/4286417/deepak-sabhrawal?tab=profile" target="_blank">
       <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/4286417/deepak-sabhrawal?tab=profile" />
      </a>
    </sup>
