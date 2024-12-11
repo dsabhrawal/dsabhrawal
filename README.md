@@ -63,7 +63,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsabhrawal&hide=html,css,shell,Batchfile,ApacheConf&layout=compact&langs_count=6&theme=vue&border_radius=0&cache_seconds=21600" />
 </a>-->
 
-
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -85,15 +84,15 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Cloud, AWS, Containers, Java, Software Development**
 
-- 📫 How to reach me **https://about.me/dsabhrawal**
+- 📫 How to reach me **https://about.me/deepaksabhrawal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/devdpk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devdpk" height="30" width="40" /></a>
-<a href="https://twitter.com/dsabhrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dsabhrawal" height="30" width="40" /></a>
+<a href="https://twitter.com/deepaksabhrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepaksabhrawal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deepak-sabhrawal-52479257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-sabhrawal-52479257" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4286417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4286417" height="30" width="40" /></a>
-<a href="https://medium.com/dsabhrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dsabhrawal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4286417/deepak-sabhrawal?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4286417/deepak-sabhrawal?tab=profile" height="30" width="40" /></a>
+<a href="https://medium.com/deepak.sabhrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="deepak.sabhrawal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -104,4 +103,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dsabhrawal&show_icons=true&locale=en" alt="dsabhrawal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsabhrawal&" alt="dsabhrawal" /></p>
-
