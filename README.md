@@ -27,9 +27,13 @@ Here are some ideas to get you started:
     <a href="https://github.com/dsabhrawal" target="_blank">
       <img alt="Github Badge" src="https://img.shields.io/badge/-/dsabhrawal-181717?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/dsabhrawal" />
      </a>
-         <a href="https://stackoverflow.com/users/4286417/deepak-sabhrawal?tab=profile" target="_blank">
+     <a href="https://stackoverflow.com/users/4286417/deepak-sabhrawal?tab=profile" target="_blank">
       <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/4286417/deepak-sabhrawal?tab=profile" />
      </a>
+     <a href="https://dev.to/devdpk" target="_blank">
+      <img alt="DEV.TO" src="https://img.shields.io/badge/dev.to-white?style=for-the-badge&logo=dev.to&labelColor=black&color=black&link=https%3A%2F%2Fdev.to%2Fdevdpk" />
+     </a>
+    
    </sup>
 </h2>
 
